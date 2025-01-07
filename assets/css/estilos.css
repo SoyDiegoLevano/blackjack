@@ -18,9 +18,11 @@ html, body {
     width: 150px;
     left: 100px;
     margin-left: -75px;
+    border-radius: 10px;
 }
 
 #computadora-cartas, #jugador-cartas {
     height: 250px;
+
 }
 
